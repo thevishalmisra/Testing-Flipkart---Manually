@@ -10,7 +10,7 @@ Manual test case documentation for the **Home Page** module of Flipkart (flipkar
 | Module Name | Home Page |
 | Created By | Vishal Raman |
 | Created Date | 2026-06-15 |
-| Executed By | Deva |
+| Executed By | Vishal |
 
 ## Test Summary
 
